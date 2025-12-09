@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ラビットグレイ",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-09T07:14:37.860733Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラビットグレイ",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_ラビットグレイ_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラビットグレイ",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_ラビットグレイ_Eve.txt"
+    }
+  ]
+}
